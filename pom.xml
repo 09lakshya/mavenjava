@@ -4,7 +4,7 @@
   <groupId>com.example</groupId>
   <artifactId>mavenjava</artifactId>
   <packaging>jar</packaging>
-  <version>1.0-SNAPSHOT</version>
+  <version>4.13.2</version>
   <name>mavenjava</name>
   <url>http://maven.apache.org</url>
   <dependencies>
